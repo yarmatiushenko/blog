@@ -2,7 +2,7 @@
  Module dependencies
 */
 const mongoose = require("mongoose"),
-    bcrypt = require("bcrypt");
+    bcrypt = require("bcryptjs");
     uniqueValidator = require('mongoose-unique-validator');
 
 //==============================================================================
