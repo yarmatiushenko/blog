@@ -1,6 +1,6 @@
 # Blog-Post
 
-Student of the group IN.m - 24 - Matiushenko Yaroslav test
+Student of the group IN.m - 24 - Matiushenko Yaroslav test2
 
 This is my 1st Node.js application. It has following functionalities `(find sceenshot by clicking each link)`.
 1. [User Registration](public/images/screenshots/register.JPG) (email support)
