@@ -24,7 +24,7 @@ describe('Post Model Test', () => {
   });
 
   test('publishedAt returns a correctly formatted date', () => {
-    const expectedFormat = formattedDate; /* Your expected date format here */;
+    const expectedFormat = {}; /* Your expected date format here */;
     expect(post.publishedAt).toBe(expectedFormat);
   });
 
