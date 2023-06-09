@@ -11,6 +11,7 @@
     "start": "node ./bin/www",
     "devstart": "nodemon ./bin/www",
     "test": "jest",
+    "eslint": "eslint --fix",
     "coverage": "c8 --check-coverage npm run test"
   },
   "dependencies": {
@@ -21,6 +22,7 @@
     "crypto": "^1.0.1",
     "dateformat": "^3.0.3",
     "debug": "^2.6.9",
+    "eslint": "^8.42.0",
     "express": "^4.16.3",
     "express-flash-messages": "^0.1.1",
     "express-handlebars": "^3.0.0",
